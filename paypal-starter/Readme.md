@@ -41,6 +41,9 @@ npm start will run your file you will paypal payment on the site and how to inte
 ```bash
 git clone https://github.com/manik17778/In-class-Exercise.git
 cd paypal-starter
+npm init -y
+npm install express
+npm install 
 
 
 
